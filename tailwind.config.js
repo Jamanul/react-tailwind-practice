@@ -7,9 +7,7 @@ export default {
   theme: {
     extend: {},
   },
-  module.exports = {
-    //...
     plugins: [require("daisyui")],
-  },
+
 }
 
